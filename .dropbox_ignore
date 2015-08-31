@@ -1,0 +1,5 @@
+# Test Comment
+*.txt
+node_modules/*
+venv/*
+
